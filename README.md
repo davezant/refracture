@@ -37,7 +37,7 @@ git clone https://github.com/yourusername/refracture.git
 
 ```bash
 cd refracture
-go build -o refracture ./cmd
+go build
 ```
 
 3. Add `refracture` to your system PATH or run it directly from the build folder.
