@@ -30,7 +30,7 @@ Perfect for lazy or busy developers who want a neat, export-ready project struct
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/refracture.git
+git clone https://github.com/davezant/refracture.git
 ```
 
 2. Build the executable:
